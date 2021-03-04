@@ -1,0 +1,32 @@
+header {
+  background-color: antiquewhite;
+}
+footer {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+.form-text {
+  text-align: center;
+}
+
+.post-lists {
+  margin: 0 auto;
+  width: 70%;
+  list-style: none;
+}
+
+li {
+}
